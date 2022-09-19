@@ -1,0 +1,20 @@
+hr{
+    width: 200px;
+    height: 4px;
+    background-color: black;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border: 10px groove rgb(181, 181, 230);
+}
+body{
+    background: linear-gradient(rgb(132, 230, 230), pink);
+}
+#mc{
+    background-color: rgb(183, 151, 212);
+    padding: 30px;
+}
+.carousel-indicators{
+    margin-top: 20px !important;
+}
